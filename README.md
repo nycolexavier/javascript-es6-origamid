@@ -1,4 +1,4 @@
-## ![curso-javascript-guanabara-banner](https://user-images.githubusercontent.com/74930052/132879173-7abb5dc6-cb73-433d-bd15-e51ba25cb692.png)
+![javascript-banner](https://user-images.githubusercontent.com/74930052/153689919-e6a21a98-5818-4905-b49d-da7e400bc060.png)
 
 <img src="https://img.shields.io/static/v1?label=Status&message=incomplete&color=ff0000&style=for-the-badge&logo=ghost"/>
 
