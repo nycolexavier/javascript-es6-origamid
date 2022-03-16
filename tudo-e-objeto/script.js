@@ -1,0 +1,18 @@
+// nomeie 3 propriedades ou métodos de strings
+var nome = "André";
+// fixed;
+// length;
+// slice;
+
+// nomeie 5 propriedades ou métodos de elemetos do DOM
+var btn = document.querySelector(".btn");
+// addEventListener
+// appendChild
+// innerHTML
+// id
+// outerHtml
+
+console.log(btn);
+
+// busque na web um objeto (método) capaz de interagir com o clipboard,
+// clipboard é a parte do seu computador que lido com o CTRL + C e CTRL +V
